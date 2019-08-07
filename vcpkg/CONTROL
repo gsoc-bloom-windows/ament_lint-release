@@ -1,0 +1,4 @@
+Source: ros-dashing-ament-cmake-uncrustify
+Version: 0.7.3
+Description: The CMake API for ament_uncrustify to check code against styleconventions using uncrustify.
+Build-Depends:
