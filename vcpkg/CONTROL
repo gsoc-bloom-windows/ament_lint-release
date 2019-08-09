@@ -1,4 +1,0 @@
-Source: ros-dashing-ament-cmake-copyright
-Version: 0.7.3
-Description: The CMake API for ament_copyright to check every source file contains copyright reference.
-Build-Depends:
