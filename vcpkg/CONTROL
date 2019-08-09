@@ -1,4 +1,0 @@
-Source: ros-dashing-ament-xmllint
-Version: 0.7.3
-Description: The ability to check XML files like the package manifest using xmllint and generate xUnit test result files.
-Build-Depends:
