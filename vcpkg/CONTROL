@@ -1,4 +1,0 @@
-Source: ros-dashing-ament-cmake-cpplint
-Version: 0.7.3
-Description: The CMake API for ament_cpplint to lint C / C++ code using cpplint.
-Build-Depends:
