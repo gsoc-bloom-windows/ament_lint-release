@@ -1,4 +1,0 @@
-Source: ros-dashing-ament-lint-common
-Version: 0.7.3
-Description: The list of commonly used linters in the ament buildsytem in CMake.
-Build-Depends:
