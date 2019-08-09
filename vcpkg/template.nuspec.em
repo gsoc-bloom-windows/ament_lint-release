@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ros-dashing-ament-pep257</id>
-    <version>0.7.3</version>
-    <title>ros-dashing-ament-pep257</title>
-    <authors>Dirk Thomas</authors>
+    <id>@(Package)</id>
+    <version>@(Version)</version>
+    <title>@(Package)</title>
+    <authors>@(Authors)</authors>
     <owners>OSRF</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The ability to check code against the style conventions in PEP 8 and generate xUnit test result files.</description>
+    <description>@(Description)</description>
     <dependencies>
-
+@[for d in Depends]@(d)@[end for]
     </dependencies>
   </metadata>
   <files>
